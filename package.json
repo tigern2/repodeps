@@ -16,7 +16,7 @@
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
-    "core-js": "core-js-1.2.7.tar.gz",
+    "encoding": "encoding-0.1.12.tar.gz",
     "js-tokens": "js-tokens-2.0.0.tar.gz"
   }
 }
