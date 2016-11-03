@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "js-tokens": "js-tokens-2.0.0.tar.gz",
-    "is-stream": "is-stream-1.1.0.tar.gz"
+    "jquery": "jquery-3.0.0.tar.gz"
   }
 }
