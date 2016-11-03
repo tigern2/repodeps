@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "js-tokens": "js-tokens-2.0.0.tar.gz",
-    "encoding": "encoding-0.1.12.tar.gz"
+    "fbjs": "fbjs-0.8.5.tar.gz"
   }
 }
