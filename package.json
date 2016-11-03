@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/tigern2/repodeps.git"
+    "url": "github.com/tigern2/repodeps.git"
   },
   "files": [
     "js-tokens-2.0.0.tar.gz"
@@ -16,6 +16,6 @@
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
-    "js-tokens": "js-tokens-2.0.0.tar.gz"  
+    "js-tokens": "file:./js-tokens-2.0.0.tar.gz"  
   }
 }
