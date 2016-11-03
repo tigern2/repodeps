@@ -16,6 +16,7 @@
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
-    "fbjs": "fbjs-0.8.5.tar.gz"
+    "js-tokens": "js-tokens-2.0.0.tar.gz",
+    "is-stream": "is-stream-1.1.0.tar.gz"
   }
 }
