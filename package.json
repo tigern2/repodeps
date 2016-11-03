@@ -14,6 +14,6 @@
   "author": "Oskar",
   "license": "MIT",
   "dependencies": {
-    "js-tokens": "./js-tokens-2.0.0.tar.gz"  
+    "js-tokens": "js-tokens-2.0.0.tar.gz"  
   }
 }
